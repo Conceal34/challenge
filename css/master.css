@@ -1,0 +1,53 @@
+
+body {
+    margin: auto;
+    font-size: 1.1em;
+}
+
+h1 {
+    color:aliceblue;
+    font-size: 4.5em;
+    margin-top: 0;
+    padding: 187.5px;
+    padding-bottom: 0;
+}
+
+nav {
+    font-size: 1.5rem;
+    background-color: #333;
+    height: 55px;
+    padding-left: 6%;
+    position: sticky;
+    top: 0px;
+}
+
+p {
+    margin-bottom: 7%;
+    line-height: 2;
+}
+
+ul {
+    list-style: none;
+}
+.heading {
+    text-align: center;
+    background-color: blueviolet;
+    height: 450px;
+}
+
+.main {
+    margin: 10%;
+}
+
+.nav-content {
+    color: azure;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-content:hover {
+    background-color: turquoise;
+}
