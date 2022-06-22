@@ -18,7 +18,8 @@ nav {
     height: 55px;
     padding-left: 6%;
     position: sticky;
-    top: 0px;
+    top: 0;
+    margin: -25px;
 }
 
 p {
